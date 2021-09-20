@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I'm Ivo! 
 
-<!--
-**ivolopes-developer/ivolopes-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on freelance projects and self-learning
+- 👯 I’m looking for good projects to colaborate
+- 💬 Ask me about pizza 🍕 and crypto projects 😏
+- 📫 How to reach me: on my website you have all the information that you need: [My Website](https://ivolopes-developer.github.io/MyResume/)
+- 😄 nicknames: Typhon, REZADOR, Birtmas.
+- ⚡ Fun fact: back-end > front-end (don't take it personally, just joking)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/ivolopes-developer">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivolopes-developer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivolopes-developer&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+![Snake animation](https://github.com/ivolopes-developer/ivolopes-developer/blob/output/github-contribution-grid-snake.svg)
