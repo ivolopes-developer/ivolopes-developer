@@ -7,13 +7,6 @@
 - 😄 nicknames: Typhon, REZADOR, Birtmas.
 - ⚡ Fun fact: back-end > front-end (don't take it personally, just joking)
 
-##
 
-<div>
-  <a href="https://github.com/ivolopes-developer">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivolopes-developer&layout=compact&langs_count=7&theme=dark" style="width: 100%"/>
-</div>
-
-###
   
   ![Snake animation](https://github.com/ivolopes-developer/ivolopes-developer/blob/output/github-contribution-grid-snake.svg)
