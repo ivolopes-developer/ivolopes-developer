@@ -11,4 +11,4 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivolopes-developer&hide=css,scss,html&theme=tokyonight)
   
-  ![Snake animation](https://github.com/ivolopes-developer/ivolopes-developer/blob/output/github-contribution-grid-snake.svg)
+  
