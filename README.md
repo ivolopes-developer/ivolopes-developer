@@ -7,6 +7,6 @@
 - 😄 nicknames: Typhon, REZADOR, Birtmas, Ivanka Lopes.
 - ⚡ Fun fact: back-end > front-end (don't take it personally, just joking)
 
-
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   
   ![Snake animation](https://github.com/ivolopes-developer/ivolopes-developer/blob/output/github-contribution-grid-snake.svg)
