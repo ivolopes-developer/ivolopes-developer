@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Ivo! 
 
-- 🔭 I’m currently working on freelance projects and self-learning
+- 🔭 I’m currently working on my company infrastructure
+- 🍩 Founder of Pals 'n Donuts [Pal's Website](https://palsndonuts.pt) 
 - 👯 I’m looking for good projects to collaborate
 - 🍔 Invite me to eat at Mulligans, an artisanal burger house in Leiria. You Can invite me to PizzaHut too 🍕
 - 📫 How to reach me: On my website, you have all the information that you need: [My Website](https://ivolopes-developer.github.io/MyResume/)
