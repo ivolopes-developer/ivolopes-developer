@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working on my company infrastructure
 - 🍩 Founder of [Pals 'n Donuts](https://palsndonuts.pt)
-- 👯 I’m looking for good projects to collaborate
-- 🍔 Invite me to eat at Mulligans, an artisanal burger house in Leiria. You Can invite me to PizzaHut too 🍕
-- 📫 How to reach me: On my website, you have all the information that you need: [My Website](https://ivolopes-developer.github.io/MyResume/)
-- 😄 nicknames: Typhon, REZADOR, Birtmas, Ivanka Lopes.
-- ⚡ Fun fact: back-end > front-end (don't take it personally, just joking)
+- 👯 I’m NOT looking for good projects to collaborate
+- 🍔 Invite me to eat, but you pay.
+- 📫 How to reach me: [My Website](https://ivolopes-developer.github.io/MyResume/)
+- 😄 nicknames: Typhon, REZADOR, Birtmas, Ivanka Lopes, Tufo, Francisco Peixoto, Tio Carlão, Bartolomeu Dias.
+- ⚡ Fun fact: Não se pode beber vinho depois de comer melancia. #BrunoAleixo
 
 
 
