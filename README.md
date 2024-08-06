@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ivo! 
+### Hi there 👋 I'm NOT Frank Sinatra! 
 
 - 🔭 I’m currently working on my company infrastructure
 - 🍩 Founder of [Pals 'n Donuts](https://palsndonuts.pt)
