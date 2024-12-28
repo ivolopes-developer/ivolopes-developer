@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm NOT Frank Sinatra! 
 
 - 🔭 I’m currently working on my company infrastructure
-- 🍩 Founder of [Pals 'n Donuts](https://palsndonuts.pt)
+- 🍩 Founder of [Pals 'n Co](https://palsnco.com/)
 - 👯 I’m NOT looking for good projects to collaborate
 - 🍔 Invite me to eat, but you pay.
 - 📫 How to reach me: [My Website](https://ivolopes-developer.github.io/MyResume/)
